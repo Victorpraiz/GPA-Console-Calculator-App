@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GPA-Calculator</id>
+    <version>1.0.0</version>
+    <authors>GPA-Calculator</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="ConsoleTables" version="2.4.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/victorpraiz/Documents/DECAGON/Week1-task/GPA-Console-Calculator-App/bin/Debug/net5.0/GPA-Calculator.runtimeconfig.json" target="lib/net5.0/GPA-Calculator.runtimeconfig.json" />
+    <file src="/Users/victorpraiz/Documents/DECAGON/Week1-task/GPA-Console-Calculator-App/bin/Debug/net5.0/GPA-Calculator.dll" target="lib/net5.0/GPA-Calculator.dll" />
+  </files>
+</package>

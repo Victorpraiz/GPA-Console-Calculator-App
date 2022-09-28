@@ -1,0 +1,28 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{00982D73-5655-4A1D-8C80-C5B95124D4D8}|Default">
+  <MonoDevelop.Ide.ItemProperties.GPA-Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrintTable.cs">
+    <Files>
+      <File FileName="Program.cs" Line="64" Column="26" />
+      <File FileName="PrintTable.cs" Line="21" Column="13" />
+      <File FileName="StudentCourses.cs" Line="22" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GPA-Calculator" expanded="True">
+            <Node name="GPA-Calculator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

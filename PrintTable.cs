@@ -13,6 +13,11 @@ namespace GPA_Calculator
         {
             var table = new ConsoleTable("COURSE & CODE", "COURSE UNIT", "GRADE", "GRADE UNIT", "WEIGHT Pt.", "REMARK");
 
+
+
+
+
+
             foreach (StudentCourses course in studentResult)
             {
                 table.AddRow(course.CourseCode.ToUpper(), course.CourseUnit, course.Grade, course.GradeUnit, course.WeightPoint, course.Remark);
