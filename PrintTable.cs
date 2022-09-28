@@ -15,7 +15,7 @@ namespace GPA_Calculator
 
             foreach (StudentCourses course in studentResult)
             {
-                table.AddRow(course.CourseCode, course.CourseUnit, course.Grade, course.GradeUnit, course.WeightPoint, course.Remark);
+                table.AddRow(course.CourseCode.ToUpper(), course.CourseUnit, course.Grade, course.GradeUnit, course.WeightPoint, course.Remark);
             }
 
             Console.WriteLine(table);
